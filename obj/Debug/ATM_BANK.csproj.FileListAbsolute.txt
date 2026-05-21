@@ -1,0 +1,14 @@
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\bin\Debug\ATM_BANK.exe.config
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\bin\Debug\ATM_BANK.exe
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\bin\Debug\ATM_BANK.pdb
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.Form1.resources
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.Properties.Resources.resources
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.exe
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.pdb
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.atm_interface.resources
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.Check_Balance.resources
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.Deposit.resources
+C:\Users\crist\source\repos\ATM_BANK\ATM_BANK\obj\Debug\ATM_BANK.WithdrawForm.resources
